@@ -1,7 +1,7 @@
 {
-  "name": "BlockChain-ui-privatization",
-  "version": "1.4.5",
-  "description": "",
+  "name": "blockchain-ui-privatization",
+  "version": "1.8.0",
+  "description": "knoxEX",
   "author": "huangjin",
   "scripts": {
     "lint": "vue-cli-service lint",
@@ -60,7 +60,7 @@
   "gitHooks": {
     "pre-commit": "lint-staged"
   },
-  "license": "ISC",
+  "license": "BSL-1.0",
   "lint-staged": {
     "*.js": [
       "vue-cli-service lint",
@@ -77,5 +77,12 @@
   "repository": {
     "type": "git",
     "url": ""
-  }
+  },
+  "directories": {
+    "lib": "lib"
+  },
+  "keywords": [
+    "Knox",
+    "Safahi"
+  ]
 }
