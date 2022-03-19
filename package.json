@@ -1,8 +1,8 @@
 {
-  "name": "blockchain-ui-privatization",
+  "name": "@knoxexchange/blockchain-ui-privatization",
   "version": "1.8.0",
   "description": "knoxEX",
-  "author": "huangjin",
+  "author": "samuel safahi",
   "scripts": {
     "lint": "vue-cli-service lint",
     "autod": "autod",
@@ -72,7 +72,7 @@
     ]
   },
   "publishConfig": {
-    "registry": "https://nexus.hiotc.pro/repository/npm-hosted"
+    "registry": "https://registry.npmjs.org"
   },
   "repository": {
     "type": "git",
